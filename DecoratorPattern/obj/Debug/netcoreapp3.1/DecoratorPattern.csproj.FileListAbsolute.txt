@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.exe
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.dll
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.dll
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.pdb

@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\bin\Debug\netcoreapp3.1\StatePatternAtm.exe
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\bin\Debug\netcoreapp3.1\StatePatternAtm.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\bin\Debug\netcoreapp3.1\StatePatternAtm.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\bin\Debug\netcoreapp3.1\StatePatternAtm.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\bin\Debug\netcoreapp3.1\StatePatternAtm.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\bin\Debug\netcoreapp3.1\StatePatternAtm.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\obj\Debug\netcoreapp3.1\StatePatternAtm.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\obj\Debug\netcoreapp3.1\StatePatternAtm.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\obj\Debug\netcoreapp3.1\StatePatternAtm.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\obj\Debug\netcoreapp3.1\StatePatternAtm.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternAtm\obj\Debug\netcoreapp3.1\StatePatternAtm.pdb

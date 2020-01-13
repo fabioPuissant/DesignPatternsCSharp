@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\obj\Debug\netcoreapp3.1\StatePatternGumball.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\obj\Debug\netcoreapp3.1\StatePatternGumball.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\obj\Debug\netcoreapp3.1\StatePatternGumball.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\bin\Debug\netcoreapp3.1\StatePatternGumball.exe
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\bin\Debug\netcoreapp3.1\StatePatternGumball.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\bin\Debug\netcoreapp3.1\StatePatternGumball.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\bin\Debug\netcoreapp3.1\StatePatternGumball.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\bin\Debug\netcoreapp3.1\StatePatternGumball.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\bin\Debug\netcoreapp3.1\StatePatternGumball.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\obj\Debug\netcoreapp3.1\StatePatternGumball.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StatePatternGumball\obj\Debug\netcoreapp3.1\StatePatternGumball.pdb

@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\bin\Debug\netcoreapp3.1\DecoratorCar.exe
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\bin\Debug\netcoreapp3.1\DecoratorCar.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\bin\Debug\netcoreapp3.1\DecoratorCar.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\bin\Debug\netcoreapp3.1\DecoratorCar.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\bin\Debug\netcoreapp3.1\DecoratorCar.dll
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\bin\Debug\netcoreapp3.1\DecoratorCar.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\obj\Debug\netcoreapp3.1\DecoratorCar.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\obj\Debug\netcoreapp3.1\DecoratorCar.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\obj\Debug\netcoreapp3.1\DecoratorCar.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\obj\Debug\netcoreapp3.1\DecoratorCar.dll
+C:\Users\Fabio\source\repos\DesignPatterns\DecoratorCar\obj\Debug\netcoreapp3.1\DecoratorCar.pdb

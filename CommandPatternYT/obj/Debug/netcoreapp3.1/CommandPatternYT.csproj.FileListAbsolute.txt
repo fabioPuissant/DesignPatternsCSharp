@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\bin\Debug\netcoreapp3.1\CommandPatternYT.exe
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\bin\Debug\netcoreapp3.1\CommandPatternYT.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\bin\Debug\netcoreapp3.1\CommandPatternYT.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\bin\Debug\netcoreapp3.1\CommandPatternYT.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\bin\Debug\netcoreapp3.1\CommandPatternYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\bin\Debug\netcoreapp3.1\CommandPatternYT.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\obj\Debug\netcoreapp3.1\CommandPatternYT.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\obj\Debug\netcoreapp3.1\CommandPatternYT.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\obj\Debug\netcoreapp3.1\CommandPatternYT.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\obj\Debug\netcoreapp3.1\CommandPatternYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\CommandPatternYT\obj\Debug\netcoreapp3.1\CommandPatternYT.pdb

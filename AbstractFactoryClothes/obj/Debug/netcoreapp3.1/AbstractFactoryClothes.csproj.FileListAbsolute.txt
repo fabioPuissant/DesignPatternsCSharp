@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\bin\Debug\netcoreapp3.1\AbstractFactoryClothes.exe
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\bin\Debug\netcoreapp3.1\AbstractFactoryClothes.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\bin\Debug\netcoreapp3.1\AbstractFactoryClothes.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\bin\Debug\netcoreapp3.1\AbstractFactoryClothes.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\bin\Debug\netcoreapp3.1\AbstractFactoryClothes.dll
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\bin\Debug\netcoreapp3.1\AbstractFactoryClothes.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\obj\Debug\netcoreapp3.1\AbstractFactoryClothes.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\obj\Debug\netcoreapp3.1\AbstractFactoryClothes.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\obj\Debug\netcoreapp3.1\AbstractFactoryClothes.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\obj\Debug\netcoreapp3.1\AbstractFactoryClothes.dll
+C:\Users\Fabio\source\repos\DesignPatterns\AbstractFactoryClothes\obj\Debug\netcoreapp3.1\AbstractFactoryClothes.pdb

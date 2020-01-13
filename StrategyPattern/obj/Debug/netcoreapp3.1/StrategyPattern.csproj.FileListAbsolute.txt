@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb

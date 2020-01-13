@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\bin\Debug\netcoreapp3.1\FactoryPatternEnemy.exe
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\bin\Debug\netcoreapp3.1\FactoryPatternEnemy.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\bin\Debug\netcoreapp3.1\FactoryPatternEnemy.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\bin\Debug\netcoreapp3.1\FactoryPatternEnemy.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\bin\Debug\netcoreapp3.1\FactoryPatternEnemy.dll
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\bin\Debug\netcoreapp3.1\FactoryPatternEnemy.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\obj\Debug\netcoreapp3.1\FactoryPatternEnemy.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\obj\Debug\netcoreapp3.1\FactoryPatternEnemy.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\obj\Debug\netcoreapp3.1\FactoryPatternEnemy.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\obj\Debug\netcoreapp3.1\FactoryPatternEnemy.dll
+C:\Users\Fabio\source\repos\DesignPatterns\FactoryPatternEnemy\obj\Debug\netcoreapp3.1\FactoryPatternEnemy.pdb
