@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\bin\Debug\netcoreapp3.1\StateYT.exe
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\bin\Debug\netcoreapp3.1\StateYT.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\bin\Debug\netcoreapp3.1\StateYT.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\bin\Debug\netcoreapp3.1\StateYT.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\bin\Debug\netcoreapp3.1\StateYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\bin\Debug\netcoreapp3.1\StateYT.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\obj\Debug\netcoreapp3.1\StateYT.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\obj\Debug\netcoreapp3.1\StateYT.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\obj\Debug\netcoreapp3.1\StateYT.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\obj\Debug\netcoreapp3.1\StateYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\StateYT\obj\Debug\netcoreapp3.1\StateYT.pdb

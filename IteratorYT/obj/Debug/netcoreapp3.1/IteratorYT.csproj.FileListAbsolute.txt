@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\bin\Debug\netcoreapp3.1\IteratorYT.exe
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\bin\Debug\netcoreapp3.1\IteratorYT.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\bin\Debug\netcoreapp3.1\IteratorYT.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\bin\Debug\netcoreapp3.1\IteratorYT.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\bin\Debug\netcoreapp3.1\IteratorYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\bin\Debug\netcoreapp3.1\IteratorYT.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\obj\Debug\netcoreapp3.1\IteratorYT.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\obj\Debug\netcoreapp3.1\IteratorYT.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\obj\Debug\netcoreapp3.1\IteratorYT.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\obj\Debug\netcoreapp3.1\IteratorYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\IteratorYT\obj\Debug\netcoreapp3.1\IteratorYT.pdb
