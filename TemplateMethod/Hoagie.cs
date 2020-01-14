@@ -32,7 +32,6 @@ namespace TemplateMethod
             WrapHoagie();
             Console.WriteLine("-------------------------------------------------------------");
             Console.WriteLine();
-
         }
 
         public abstract void AddMeat();

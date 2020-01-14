@@ -4,7 +4,7 @@ using IteratorYT.Model;
 
 namespace IteratorYT
 {
-    public class SongsOfThe80s : ISongIterator
+    public class SongsOfThe80s : ISongIteratorCreator
     {
         private int index;
 
@@ -27,9 +27,9 @@ namespace IteratorYT
             index++;
         }
 
-        public IEnumerable<SongInfo> CreateIterator()
+        public ISongIterator CreateIterator()
         {
-            return _bestSongs;
+            return new Song80Iterator(_bestSongs);
         }
     }
 }

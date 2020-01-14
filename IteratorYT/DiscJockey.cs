@@ -5,11 +5,11 @@ namespace IteratorYT
 {
     public class DiscJockey
     {
-        private ISongIterator _songsOfThe70S;
-        private ISongIterator _songsOfThe80S;
-        private ISongIterator _songsOfThe90S;
+        private ISongIteratorCreator _songsOfThe70S;
+        private ISongIteratorCreator _songsOfThe80S;
+        private ISongIteratorCreator _songsOfThe90S;
 
-        public DiscJockey(ISongIterator songsOfThe70S, ISongIterator songsOfThe80S, ISongIterator songsOfThe90S)
+        public DiscJockey(ISongIteratorCreator songsOfThe70S, ISongIteratorCreator songsOfThe80S, ISongIteratorCreator songsOfThe90S)
         {
             _songsOfThe70S = songsOfThe70S;
             _songsOfThe80S = songsOfThe80S;
@@ -20,7 +20,7 @@ namespace IteratorYT
         {
             Console.WriteLine("Songs of the 70's:\n");
             IterateSongs(_songsOfThe70S);
-             gjn
+             
             Console.WriteLine("\nSongs of the 80's:\n");
             IterateSongs(_songsOfThe80S);
 
@@ -28,11 +28,13 @@ namespace IteratorYT
             IterateSongs(_songsOfThe90S);
         }
 
-        private void IterateSongs(ISongIterator songsOfThe70S)
+        private void IterateSongs(ISongIteratorCreator songIteratorCreator)
         {
-            foreach (var songInfo in _songsOfThe70S.CreateIterator())
+            var iterator = songIteratorCreator.CreateIterator();
+
+            while (iterator.HasNext())
             {
-                Console.WriteLine(songInfo);
+                Console.WriteLine(iterator.Next());
             }
         }
     }

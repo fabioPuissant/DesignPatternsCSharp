@@ -7,11 +7,11 @@ using IteratorYT.Model;
 
 namespace IteratorYT
 {
-    public class SongsOfThe90s: ISongIterator
+    public class SongsOfThe90s: ISongIteratorCreator
     {
         int hashkey;
-        private Dictionary<Int32, SongInfo> _bestSongs;
-        public Dictionary<Int32, SongInfo> Best70sSongs => _bestSongs;
+        private Dictionary<int, SongInfo> _bestSongs;
+        
 
         public SongsOfThe90s()
         {
@@ -29,9 +29,9 @@ namespace IteratorYT
             hashkey++;
         }
 
-        public IEnumerable<SongInfo> CreateIterator()
+        public ISongIterator CreateIterator()
         {
-            return _bestSongs.Values;
+            return new Song90sIterator(_bestSongs);
         }
     }
 }

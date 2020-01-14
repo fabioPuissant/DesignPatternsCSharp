@@ -32,6 +32,7 @@ namespace TemplateMethod
             Console.WriteLine();
         }
 
+        // Hooking the hooks
         public override bool WantsMeat() { return false; }
         public override bool WantsCheese()
         {
