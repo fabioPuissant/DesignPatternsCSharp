@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\bin\Debug\netcoreapp3.1\AdapterYT.exe
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\bin\Debug\netcoreapp3.1\AdapterYT.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\bin\Debug\netcoreapp3.1\AdapterYT.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\bin\Debug\netcoreapp3.1\AdapterYT.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\bin\Debug\netcoreapp3.1\AdapterYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\bin\Debug\netcoreapp3.1\AdapterYT.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\obj\Debug\netcoreapp3.1\AdapterYT.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\obj\Debug\netcoreapp3.1\AdapterYT.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\obj\Debug\netcoreapp3.1\AdapterYT.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\obj\Debug\netcoreapp3.1\AdapterYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\AdapterYT\obj\Debug\netcoreapp3.1\AdapterYT.pdb
