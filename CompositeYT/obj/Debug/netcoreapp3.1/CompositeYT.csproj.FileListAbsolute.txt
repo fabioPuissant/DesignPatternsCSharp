@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\bin\Debug\netcoreapp3.1\CompositeYT.exe
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\bin\Debug\netcoreapp3.1\CompositeYT.deps.json
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\bin\Debug\netcoreapp3.1\CompositeYT.runtimeconfig.json
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\bin\Debug\netcoreapp3.1\CompositeYT.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\bin\Debug\netcoreapp3.1\CompositeYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\bin\Debug\netcoreapp3.1\CompositeYT.pdb
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\obj\Debug\netcoreapp3.1\CompositeYT.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\obj\Debug\netcoreapp3.1\CompositeYT.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\obj\Debug\netcoreapp3.1\CompositeYT.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\obj\Debug\netcoreapp3.1\CompositeYT.dll
+C:\Users\Fabio\source\repos\DesignPatterns\CompositeYT\obj\Debug\netcoreapp3.1\CompositeYT.pdb
